@@ -1,0 +1,31 @@
+body {
+    background-color: #f1f1f1;
+}
+
+.header, .subtitle  {
+    color: blue;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.hr-line {
+    margin: 10px 0;
+	padding: 0;
+	height: 0;
+	border: none;
+	border-top: 1px solid #333;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
